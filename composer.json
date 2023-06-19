@@ -1,0 +1,22 @@
+{
+  "name": "intimation/catalyst-image-sizes",
+  "type": "library",
+  "description": "Catalyst element to add and remove image sizes through config.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Craig Simpson",
+      "homepage": "https://intimation.co.uk",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=8.0",
+    "intimation/catalyst": "@dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "Intimation\\Catalyst\\": "src/"
+    }
+  }
+}
