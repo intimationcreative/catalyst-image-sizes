@@ -2,7 +2,7 @@
 
 namespace Intimation\Catalyst;
 
-class ImageSizeElement extends Component {
+class ImageSizeElement extends Element {
 
     const ADD = 'add';
     const REMOVE = 'remove';
